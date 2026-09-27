@@ -1,5 +1,5 @@
 
-# Assignment 2 — Music Generation
+# Music Generation
 
 ## Overview
 This project explores two approaches to automatic music generation using machine learning.

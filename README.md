@@ -1,5 +1,5 @@
 
-# Music Generation
+# HarmoniAI: Generative Music & Chorale Harmonization
 
 ## Overview
 This project explores two approaches to automatic music generation using machine learning.
